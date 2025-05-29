@@ -6,7 +6,7 @@
 > Use it responsibly and in accordance with GitHub's [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) & [Acceptable Use Policies](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies).  
 > Generating fake activity to mislead others about your contributions may violate those terms and could lead to account sanctions.
 
-Heya, this project is a minimal, fully-typed React implementation of the familiar GitHub contribution graph. Basically, you run it. Do what you need, and it it'll generate an sh file that you can run in the git repo of your choice. 
+Heya, this project is a minimal, fully-typed React implementation of the familiar GitHub contribution graph. Basically, you run it. Do what you need, and it'll generate an sh file that you can run in the git repo of your choice. 
 
 **Important:** This is permanent. You cannot take back this decision, so if you have doubts, don't do it. Github saves history, regardless if you delete the repo, try to roll back the commits, or anything. It is irreversable because the historical portion of it is saved to github, not on your git. 
 
