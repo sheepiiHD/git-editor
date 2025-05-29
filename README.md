@@ -25,16 +25,16 @@ pnpm dev # or npm run dev
 ```
 
 3. Navigate to the website
-The app will be available at `http://localhost:5173` (default Vite port).
+    The app will be available at `http://localhost:5173` (default Vite port).
 
 4. Do your thing
-Make a smiley face or something. :)
+    Make a smiley face or something. :)
 
 5. Make a new private git repo, specifically for this project
-You can make it public, but meh. Just realize it's definitely going to overwrite the git history, so don't do it on an existing project. 
+    You can make it public, but meh. Just realize it's definitely going to overwrite the git history, so don't do it on an existing project. 
 
 6. Create/drop/run the file
-Should be a `contributions.sh`. Just make it, then drop it in any established git repo (check with git status), and run it with `sh ./contributions.sh` ez pz. This *theoretially* should add git history for those commits. 
+    Should be a `contributions.sh`. Just make it, then drop it in any established git repo (check with git status), and run it with `sh ./contributions.sh` ez pz. This *theoretially* should add git history for those commits. 
 
 If you feel you wanna improve this, just toss up a PR, and I'll look at it when I get time. 
 
