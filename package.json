@@ -2,6 +2,7 @@
   "name": "github-contribution-grid",
   "version": "0.1.0",
   "private": true,
+  "author": "Sheepii",
   "type": "module",
   "scripts": {
     "dev": "vite",
