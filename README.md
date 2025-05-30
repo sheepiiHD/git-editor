@@ -36,6 +36,11 @@ pnpm dev # or npm run dev
 6. Create/drop/run the file
 > Should be a `contributions.sh`. Just make it, then drop it in any established git repo (check with git status), and run it with `sh ./contributions.sh` ez pz. This *theoretially* should add git history for those commits. 
 
+7. Push it
+```bash
+git push 
+```
+
 If you feel you wanna improve this, just toss up a PR, and I'll look at it when I get time. 
 
 ## License
